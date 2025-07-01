@@ -1,0 +1,28 @@
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Node.js / Python environments (in case you later add automation)
+node_modules/
+.env
+__pycache__/
+*.pyc
+
+# OS-generated files
+*.swp
+ehthumbs.db
+Icon?
+Desktop.ini
+
+
+# Compiled files (just in case)
+*.out
+*.o
+*.exe
